@@ -31,7 +31,7 @@ Across all tasks, the emphasis is on interpretation, error analysis, and underst
 
 - **Stage 1 - Preprocessing.ipynb**  
   Performs data normalization, filtering, and integration across FAERS, FDA drug metadata, PharmGKB, and GTEx.  
-  ⚠️ This notebook requires **raw source datasets**, which cannot be redistributed. See *Data Availability* below.
+  This notebook requires **raw source datasets**, which cannot be redistributed. See *Data Availability* below.
 
 - **Model1.ipynb**  
   Event count regression using tree-based models. Focuses on error structure, residual behavior, and predictability limits rather than point accuracy.
